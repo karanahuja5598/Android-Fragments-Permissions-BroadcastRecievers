@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kahuja3Project3App2</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="attractions">Attractions</string>
+    <string-array name="restaurantNames">
+        <item>Pompei</item>
+        <item>Tuscany</item>
+        <item>Ghareeb Nawaz</item>
+        <item>The Signature Room at the 95th</item>
+        <item>Gaylord</item>
+        <item>Greek Islands</item>
+        <item>Tiffin</item>
+        <item>Udupi Palace</item>
+        <item>Leona\'s Pizzeria</item>
+        <item>Lalo\'s Mexican Restaurant</item>
+        <item>IDOF</item>
+        <item>Carm\'s</item>
+        <item>Fontanos</item>
+        <item>Khan BBQ</item>
+    </string-array>
+    <string-array name="restaurantWebsites">
+        <item>http://www.pompeiusa.com/</item>
+        <item>https://www.tuscanychicago.com/</item>
+        <item>https://ghareebnawazonline.com/</item>
+        <item>https://www.signatureroom.com/</item>
+        <item>http://gaylordil.com/</item>
+        <item>https://greekislands.net/</item>
+        <item>https://tiffinchicago.com/</item>
+        <item>https://udupi-palace-restaurant.business.site/</item>
+        <item>http://leonas.com/</item>
+        <item>https://www.lalos.com/</item>
+        <item>https://www.idreamoffalafel.com/</item>
+        <item>http://carms.com/food.html</item>
+        <item>https://fontanosonmichigan.com/</item>
+        <item>http://www.khanbbq.net/</item>
+    </string-array>
+    <string-array name="attractionNames">
+        <item>Navy Pier</item>
+        <item>The Art Institute of Chicago</item>
+        <item>The TILT!</item>
+        <item>Skydeck at Willis Tower</item>
+        <item>Museum of Science and Industry</item>
+        <item>The Field Museum</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Millennium Park</item>
+        <item>Shedd Aquarium</item>
+        <item>Chicago Riverwalk</item>
+        <item>Adler Planetarium</item>
+        <item>Buckingham Fountain</item>
+        <item>Soldier Field</item>
+        <item>United Center</item>
+    </string-array>
+    <string-array name="attractionWebsites">
+        <item>https://navypier.org/</item>
+        <item>https://www.artic.edu/</item>
+        <item>https://360chicago.com/tilt/</item>
+        <item>https://theskydeck.com/</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://www.fieldmuseum.org/</item>
+        <item>https://www.lpzoo.org/</item>
+        <item>https://www.choosechicago.com/articles/parks-outdoors/millennium-park-campus/</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://www.chicagoriverwalk.us/</item>
+        <item>https://www.adlerplanetarium.org/</item>
+        <item>https://www.chicagoparkdistrict.com/parks-facilities/clarence-f-buckingham-memorial-fountain</item>
+        <item>https://soldierfield.net/</item>
+        <item>https://www.unitedcenter.com/</item>
+    </string-array>
+</resources>
